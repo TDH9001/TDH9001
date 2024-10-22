@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter 
 
 -->
-- 🔭 I’m currently working on becoming a Flutter mobile developer
-- 🌱 I’m currently learning flutter 
+-  I’m currently working on becoming a Flutter mobile developer
+-  I’m currently learning flutter
+- Still studying though, should be off by next year
