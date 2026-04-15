@@ -17,7 +17,7 @@ Computer Science graduate from Ain Shams University (Faculty of Science) with a 
 
 ## Tech Stack
 
-`Flutter` `Dart` `Bloc` `Hive` `Firebase` `REST APIs` `MVVM` `Repository Pattern` `Git`
+`Flutter` `Dart` `Bloc` `Hive` `Firebase` `DIO` `REST APIs` `Supabase` `MVVM` `Repository Pattern` `Git`
 
 ---
 
